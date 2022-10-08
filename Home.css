@@ -1,42 +1,36 @@
  .u-section-1 {
-  background-image: url("images/AdobeStock_400143592.jpeg");
+  background-image: url("images/AdobeStock_401184097.jpeg");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 785px;
+  min-height: 930px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-image-1 {
   width: 529px;
-  height: 457px;
-  margin: 60px auto 0;
+  height: 505px;
+  margin: 124px auto 0;
 }
 
 .u-section-1 .u-group-1 {
   width: 739px;
-  min-height: 535px;
+  min-height: 271px;
   height: auto;
-  margin: -455px auto 60px;
+  margin: 0 auto 30px;
 }
 
 .u-section-1 .u-container-layout-1 {
   padding-bottom: 0;
+  padding-top: 0;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 400;
   font-size: 4.5rem;
-  margin: 160px 20px 0;
-}
-
-.u-section-1 .u-line-1 {
-  width: 102px;
-  height: 10px;
-  transform-origin: left center 0px;
-  margin: 0 auto;
+  margin: 48px 20px 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -47,7 +41,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 647px;
+    min-height: 767px;
   }
 
   .u-section-1 .u-group-1 {
@@ -57,7 +51,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 496px;
+    min-height: 587px;
   }
 
   .u-section-1 .u-group-1 {
@@ -79,7 +73,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 372px;
+    min-height: 440px;
   }
 
   .u-section-1 .u-group-1 {
@@ -90,10 +84,6 @@
     font-size: 3.75rem;
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-1 .u-line-1 {
-    transform-origin: left center 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -110,12 +100,11 @@
 
   .u-section-1 .u-image-1 {
     width: 340px;
-    height: 294px;
+    height: 325px;
   }
 
   .u-section-1 .u-group-1 {
     width: 340px;
-    margin-top: -292px;
   }
 } .u-section-2 {
   background-image: none;
@@ -824,15 +813,21 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 1301px;
+  min-height: 1695px;
   margin: 0 auto;
+}
+
+.u-section-5 .u-image-1 {
+  width: 570px;
+  height: 446px;
+  margin: -4px -356px 0 auto;
 }
 
 .u-section-5 .u-text-1 {
   font-weight: 400;
   font-size: 3rem;
   width: 483px;
-  margin: 79px auto 0;
+  margin: -363px auto 0;
 }
 
 .u-section-5 .u-slider-1 {
@@ -849,7 +844,7 @@
   height: auto;
 }
 
-.u-section-5 .u-image-1 {
+.u-section-5 .u-image-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/c09ef0531e83cd56705d6162549fbb7d.jpg");
   background-position: 50% 50%;
 }
@@ -877,7 +872,7 @@
   margin: 30px auto 0;
 }
 
-.u-section-5 .u-image-2 {
+.u-section-5 .u-image-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Minecraft-PS4-Wallpapers-16.jpg");
   background-position: 50% 50%;
 }
@@ -905,7 +900,7 @@
   margin: 30px auto 0;
 }
 
-.u-section-5 .u-image-3 {
+.u-section-5 .u-image-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/3152113.jpg");
   background-position: 50% 50%;
 }
@@ -1028,7 +1023,15 @@
 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1073px;
+    min-height: 1676px;
+  }
+
+  .u-section-5 .u-image-1 {
+    margin-top: 403px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: -770px;
   }
 
   .u-section-5 .u-layout-wrap-1 {
@@ -1048,11 +1051,24 @@
     margin-left: 0;
     margin-right: 0;
   }
+
+  .u-section-5 .u-layout-wrap-2 {
+    margin-top: 20px;
+    margin-bottom: 0;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 115px;
+    min-height: 1530px;
+  }
+
+  .u-section-5 .u-image-1 {
+    margin-top: 257px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: -624px;
   }
 
   .u-section-5 .u-slider-1 {
@@ -1085,8 +1101,13 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-5 .u-text-1 {
+    margin-top: -578px;
+  }
+
   .u-section-5 .u-slider-1 {
     width: 540px;
+    margin-top: 49px;
   }
 
   .u-section-5 .u-container-layout-1 {
@@ -1126,13 +1147,23 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1555px;
+  }
+
+  .u-section-5 .u-image-1 {
+    margin-top: 282px;
+  }
+
   .u-section-5 .u-text-1 {
     font-size: 1.5rem;
     width: 340px;
+    margin-top: -469px;
   }
 
   .u-section-5 .u-slider-1 {
     width: 340px;
+    margin-top: 72px;
   }
 
   .u-section-5 .u-text-3 {
