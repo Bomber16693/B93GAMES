@@ -38520,7 +38520,7 @@ a.u-link.u-text-hover-grey-90:hover {
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin: -53px auto 17px 165px;
+  margin: -53px auto 17px 164px;
 }
 @media (max-width: 1199px) {
   .u-header .u-btn-1 {
@@ -38537,7 +38537,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-2 {
-    height: 40px;
     margin-top: -40px;
     margin-right: 415px;
   }
