@@ -122,6 +122,51 @@
   margin: -277px auto 0 20px;
 }
 
+.u-section-1 .u-image-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/e7a37881-3a62-4bf6-a4c1-82e99f9e6539-profile_banner-4801.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px 19px;
+}
+
+.u-section-1 .u-image-6 {
+  width: 68px;
+  height: 100px;
+  margin: 20px auto 0 20px;
+}
+
+.u-section-1 .u-text-7 {
+  margin: -59px auto 0;
+}
+
+.u-section-1 .u-text-8 {
+  text-shadow: 0px 0px 8px rgba(88,188,72,1);
+  width: 409px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-5 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 50px auto 0;
+}
+
+.u-section-1 .u-btn-6 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 8px auto 0;
+}
+
 .u-section-1 .u-carousel-control-1 {
   width: 38px;
   height: 38px;
@@ -174,6 +219,11 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -197,7 +247,7 @@
     width: 320px;
   }
 
-  .u-section-1 .u-image-4 {
-    margin-top: -251px;
+  .u-section-1 .u-text-8 {
+    width: 320px;
   }
 }
